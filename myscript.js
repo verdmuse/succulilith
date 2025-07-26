@@ -3,5 +3,5 @@ let p = document.createElement("p");
 let p1 = document.querySelector("div");
 p.textContent = "Try";
 
-body.insertBefore(p, p1);
+body.children[1].appendChild(p);
 console.log(p1);
