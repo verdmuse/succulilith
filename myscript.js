@@ -3,5 +3,5 @@ let p = document.createElement("p");
 let p1 = document.querySelector("p");
 p.textContent = "Try";
 
-body.addBefore(p, p1);
+body.insertBefore(p, p1);
 console.log(p1);
