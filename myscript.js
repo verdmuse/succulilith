@@ -4,3 +4,4 @@ let p1 = document.querySelector("div");
 p.textContent = "Try";
 
 body.insertBefore(p, p1);
+console.log(p1);
