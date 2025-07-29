@@ -8,6 +8,7 @@ p {
 }
 
 .image-contains {
+  display: block;
   width:20%;
   height:auto;
 }
