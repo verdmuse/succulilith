@@ -7,7 +7,7 @@ p {
   
 }
 
-.image-contains {
+.image-contains img{
   display: block;
   width:20%;
   height:auto;
